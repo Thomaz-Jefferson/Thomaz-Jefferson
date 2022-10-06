@@ -1,7 +1,6 @@
 - 👋 Olá, sou @Thomaz-Jefferson
-- 👀 Estou interessado em ajudar
-- 🌱 Atualmente estou aprendendo a usar o figma
-- 💞️ Estou querendo colaborar nos designer e na organização
+- 👀 Estou buscando me especializar
+- 🌱 Atualmente estou aprendendo a desenvolver
 - 📫 Pode me contatar no whatsapp (88)9.9350-1213
 
 <!---
